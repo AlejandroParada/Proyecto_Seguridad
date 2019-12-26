@@ -2,7 +2,7 @@
 module.exports = {
   mode: 'spa',
   router: {
-     base: '/nuxt-gh-pages/'
+     base: '/Proyecto_Seguridad/'
    },
   /*
   ** Headers of the page
