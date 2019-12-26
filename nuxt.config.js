@@ -1,6 +1,9 @@
 
 module.exports = {
   mode: 'spa',
+  router: {
+     base: '/nuxt-gh-pages/'
+   },
   /*
   ** Headers of the page
   */
